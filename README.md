@@ -1,1 +1,3 @@
 # mylist
+GUNDAM
+AVATAR
